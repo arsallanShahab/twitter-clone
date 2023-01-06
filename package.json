@@ -1,5 +1,5 @@
 {
-  "name": "react-vite-tailwind-boilerpate",
+  "name": "twitter-clone",
   "private": false,
   "version": "1.0.0",
   "type": "module",
@@ -20,5 +20,8 @@
     "postcss": "^8.4.16",
     "tailwindcss": "^3.1.8",
     "vite": "^3.1.0"
+  },
+  "repository": {
+    "url": "git@github.com:arsallanShahab/twitter-clone.git"
   }
 }
